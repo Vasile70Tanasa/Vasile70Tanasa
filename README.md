@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasile70Tanasa
-- 👀 I’m interested in programming in Python
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in programming in Python and Javascript
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on projects related to Python
 - 📫 How to reach me ...
 
