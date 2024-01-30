@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vasile70Tanasa
-- 👀 I’m interested in programming in Python and Javascript
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on projects related to Python
+- 👀 I’m interested in programming in Python and Javascript plus HTML and CSS
+- 🌱 I’m currently learning Python, Javascript, HTML, and CSS
+- 💞️ I’m looking to collaborate on projects related to Python and Javascript
 - 📫Email: vasiletanasa@gmail.com
 
 <!---
